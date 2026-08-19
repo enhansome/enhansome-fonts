@@ -52,7 +52,7 @@
                     "last_commit": "2026-08-18T13:53:18Z",
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20381
+                    "stars": 20382
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-03-27T23:10:14Z",
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19563
+                "stars": 19564
               }
             },
             {
@@ -297,7 +297,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17734
+            "stars": 17735
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64302
+            "stars": 64303
           }
         },
         {
@@ -1030,7 +1030,7 @@
             "last_commit": "2020-09-19T17:07:57Z",
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6503
+            "stars": 6504
           }
         },
         {
@@ -1261,7 +1261,7 @@
                 "archived": false,
                 "id": 930187154,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:55:54Z",
+                "last_commit": "2026-08-19T14:15:14Z",
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
                 "stars": 2212
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:42.261Z",
+    "last_updated": "2026-08-19T14:19:03.414Z",
     "original_repository": "brabadu/awesome-fonts",
     "original_repository_id": 29055846,
     "original_repository_sha": "203f555a1dbbe547eeafdaeb0c722ac2057f0005",
