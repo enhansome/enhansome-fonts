@@ -52,7 +52,7 @@
                     "last_commit": "2026-08-21T21:32:05Z",
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20402
+                    "stars": 20403
                   }
                 },
                 {
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53807
+            "stars": 53808
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64380
+            "stars": 64381
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2022-11-21T18:05:33Z",
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17325
+            "stars": 17326
           }
         },
         {
@@ -1204,7 +1204,7 @@
                 "last_commit": "2025-03-06T03:26:32Z",
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27863
+                "stars": 27864
               }
             },
             {
@@ -1264,7 +1264,7 @@
                 "last_commit": "2026-08-24T13:59:35Z",
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
-                "stars": 2223
+                "stars": 2224
               }
             },
             {
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:05.229Z",
+    "last_updated": "2026-08-24T14:49:05.471Z",
     "original_repository": "brabadu/awesome-fonts",
     "original_repository_id": 29055846,
     "original_repository_sha": "203f555a1dbbe547eeafdaeb0c722ac2057f0005",
