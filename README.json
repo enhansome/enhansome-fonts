@@ -49,10 +49,10 @@
                     "archived": false,
                     "id": 30675533,
                     "language": "HTML",
-                    "last_commit": "2026-08-27T09:56:33Z",
+                    "last_commit": "2026-08-27T20:32:54Z",
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20414
+                    "stars": 20416
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-03-27T23:10:14Z",
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19586
+                "stars": 19585
               }
             },
             {
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53826
+            "stars": 53830
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64431
+            "stars": 64436
           }
         },
         {
@@ -1030,7 +1030,7 @@
             "last_commit": "2020-09-19T17:07:57Z",
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6508
+            "stars": 6509
           }
         },
         {
@@ -1155,7 +1155,7 @@
                 "last_commit": "2025-10-28T14:26:26Z",
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3730
+                "stars": 3731
               }
             },
             {
@@ -1189,7 +1189,7 @@
                 "last_commit": "2026-07-28T17:02:16Z",
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 81951
+                "stars": 81952
               }
             },
             {
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-08-27T03:38:17Z",
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22679
+                "stars": 22681
               }
             },
             {
@@ -1261,7 +1261,7 @@
                 "archived": false,
                 "id": 930187154,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:17:25Z",
+                "last_commit": "2026-08-27T14:20:10Z",
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
                 "stars": 2228
@@ -1279,7 +1279,7 @@
                 "last_commit": "2026-07-13T09:11:09Z",
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1735
+                "stars": 1734
               }
             },
             {
@@ -1294,7 +1294,7 @@
                 "last_commit": "2026-04-23T02:40:44Z",
                 "owner": "kika",
                 "repo": "fixedsys",
-                "stars": 1288
+                "stars": 1290
               }
             }
           ],
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-08-08T03:59:23Z",
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5012
+            "stars": 5011
           }
         },
         {
@@ -1498,7 +1498,7 @@
             "last_commit": "2026-08-11T07:21:31Z",
             "owner": "vkarampinis",
             "repo": "awesome-icons",
-            "stars": 1556
+            "stars": 1557
           }
         },
         {
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:27.699Z",
+    "last_updated": "2026-08-27T23:14:38.613Z",
     "original_repository_info": {
       "archived": false,
       "id": 29055846,
@@ -1610,7 +1610,7 @@
       "last_commit": "2026-07-26T05:01:07Z",
       "owner": "brabadu",
       "repo": "awesome-fonts",
-      "stars": 2064
+      "stars": 2066
     },
     "original_repository_sha": "203f555a1dbbe547eeafdaeb0c722ac2057f0005",
     "enhanced_repository": "enhansome/enhansome-fonts",
