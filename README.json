@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The package of IBM’s typeface, IBM Plex.",
+                "homepage": null,
                 "id": 105702631,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-30T11:29:25Z",
+                "open_issues": 80,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11603
+                "stars": 11605,
+                "topics": [
+                  "design",
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -28,12 +37,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mozilla's Zilla Slab Type Family",
+                "homepage": null,
                 "id": 90361578,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2023-06-06T03:24:31Z",
+                "open_issues": 31,
                 "owner": "mozilla",
                 "repo": "zilla-slab",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "mozilla",
+                  "typography",
+                  "webfont",
+                  "webfonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -49,12 +68,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
+                    "homepage": "http://google.github.io/fonts/",
                     "id": 30675533,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-08-28T14:14:46Z",
+                    "open_issues": 1416,
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20423
+                    "stars": 20424,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
                 },
@@ -65,12 +89,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The Roboto family of fonts",
+                    "homepage": null,
                     "id": 33761854,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-01T16:56:26Z",
+                    "open_issues": 157,
                     "owner": "googlefonts",
                     "repo": "roboto-2",
-                    "stars": 3828
+                    "stars": 3828,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
                 },
@@ -81,12 +110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": " Noto fonts, except for CJK and emoji",
+                    "homepage": "http://fonts.google.com/noto",
                     "id": 37085010,
                     "language": "Python",
+                    "license": "OFL-1.1",
                     "last_commit": "2023-01-25T13:40:16Z",
+                    "open_issues": 29,
                     "owner": "notofonts",
                     "repo": "noto-fonts",
-                    "stars": 2503
+                    "stars": 2503,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
                 },
@@ -97,12 +131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Install all Google Web Fonts onto your local machine",
+                    "homepage": "https://www.google.com/fonts",
                     "id": 12003275,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2022-01-10T15:29:53Z",
+                    "open_issues": 5,
                     "owner": "qrpike",
                     "repo": "Web-Font-Load",
-                    "stars": 1492
+                    "stars": 1492,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
                 }
@@ -122,12 +161,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Inter font family",
+                "homepage": "https://rsms.me/inter/",
                 "id": 101033179,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2024-11-19T03:16:13Z",
+                "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19846
+                "stars": 19846,
+                "topics": [
+                  "design",
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -138,12 +186,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An innovative superfamily of fonts for code",
+                "homepage": "https://monaspace.githubnext.com",
                 "id": 696444975,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2026-03-27T23:10:14Z",
+                "open_issues": 61,
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19592
+                "stars": 19592,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "monospace",
+                  "monospaced",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -154,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keep your wireframes free of distracting Lorem Ipsum.",
+                "homepage": null,
                 "id": 8069107,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2021-11-04T21:24:49Z",
+                "open_issues": 9,
                 "owner": "christiannaths",
                 "repo": "redacted-font",
-                "stars": 5397
+                "stars": 5397,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -170,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and open-source monospaced font from Evil Martians",
+                "homepage": null,
                 "id": 474996294,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-23T18:37:35Z",
+                "open_issues": 8,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2722
+                "stars": 2722,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -186,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typeface for creating sparklines in text without code.",
+                "homepage": null,
                 "id": 100490124,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2023-09-21T23:26:10Z",
+                "open_issues": 9,
                 "owner": "aftertheflood",
                 "repo": "sparks",
-                "stars": 2397
+                "stars": 2397,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -202,12 +276,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A grotesque sans.",
+                "homepage": "http://weiweihuanghuang.github.io/Work-Sans/",
                 "id": 21608062,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2024-04-10T14:05:11Z",
+                "open_issues": 26,
                 "owner": "weiweihuanghuang",
                 "repo": "Work-Sans",
-                "stars": 1703
+                "stars": 1703,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "google-fonts",
+                  "latin",
+                  "sans-serif",
+                  "sans-serif-typeface",
+                  "typeface",
+                  "vietnamese"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -218,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Barlow: a straight-sided sans-serif superfamily",
+                "homepage": "https://tribby.com/fonts/barlow",
                 "id": 69155355,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2024-08-10T04:57:15Z",
+                "open_issues": 50,
                 "owner": "jpt",
                 "repo": "barlow",
-                "stars": 824
+                "stars": 824,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -234,12 +327,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography.",
+                "homepage": "https://fonts.google.com/specimen/Urbanist",
                 "id": 235889743,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2025-12-02T05:25:31Z",
+                "open_issues": 16,
                 "owner": "coreyhu",
                 "repo": "Urbanist",
-                "stars": 561
+                "stars": 561,
+                "topics": [
+                  "font",
+                  "fontmake",
+                  "fonts",
+                  "fonttools",
+                  "glyphs",
+                  "google-font",
+                  "google-fonts",
+                  "italic",
+                  "ofl",
+                  "sans-serif",
+                  "ttf-fonts",
+                  "type-design",
+                  "typeface",
+                  "typography",
+                  "variable-font",
+                  "variable-fonts",
+                  "webfont",
+                  "webfonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -250,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Franklin Fonts",
+                "homepage": null,
                 "id": 36676108,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2025-09-02T23:55:13Z",
+                "open_issues": 9,
                 "owner": "impallari",
                 "repo": "Libre-Franklin",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -266,12 +388,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a parametric variable font by David Berlow",
+                "homepage": "https://web.archive.org/web/20160101000000*/https://typenetwork.com/brochure/opentype-variable-fonts-moving-right-along",
                 "id": 75476313,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-28T22:40:23Z",
+                "open_issues": 34,
                 "owner": "googlefonts",
                 "repo": "amstelvar",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "font",
+                  "variations-font"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -282,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source for the Sans Bullshit Sans font",
+                "homepage": null,
                 "id": 31365534,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-08T21:22:09Z",
+                "open_issues": 15,
                 "owner": "RoelN",
                 "repo": "SansBullshitSans",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             }
@@ -309,12 +444,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji for everyone. https://twemoji.twitter.com/",
+            "homepage": null,
             "id": 26291683,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-07T21:41:18Z",
+            "open_issues": 143,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17767
+            "stars": 17767,
+            "topics": [
+              "emoji",
+              "twemoji"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -325,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A one pager for emojis on Campfire and GitHub",
+            "homepage": "http://www.emoji-cheat-sheet.com",
             "id": 2592600,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-28T07:47:03Z",
+            "open_issues": 56,
             "owner": "WebpageFX",
             "repo": "emoji-cheat-sheet.com",
-            "stars": 6322
+            "stars": 6322,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -341,12 +489,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji images and names.",
+            "homepage": null,
             "id": 2981455,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-11-24T05:09:16Z",
+            "open_issues": 43,
             "owner": "github",
             "repo": "gemoji",
-            "stars": 4535
+            "stars": 4535,
+            "topics": [
+              "emoji",
+              "ruby",
+              "rubygem",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -357,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.",
+            "homepage": "https://www.joypixels.com",
             "id": 23393132,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-22T23:23:07Z",
+            "open_issues": 131,
             "owner": "joypixels",
             "repo": "emojione",
-            "stars": 4428
+            "stars": 4428,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -373,12 +536,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":love_letter: Find the emoji that echoes your mind.",
+            "homepage": "https://emoji.muan.co/",
             "id": 11804441,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-10-05T00:09:04Z",
+            "open_issues": 10,
             "owner": "muan",
             "repo": "emoji",
-            "stars": 2267
+            "stars": 2267,
+            "topics": [
+              "emoji",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -389,12 +560,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":tangerine: Emoji searcher but as a menubar app.",
+            "homepage": null,
             "id": 38907778,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-25T05:33:39Z",
+            "open_issues": 28,
             "owner": "muan",
             "repo": "mojibar",
-            "stars": 2034
+            "stars": 2034,
+            "topics": [
+              "electron",
+              "emoji",
+              "menubar"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -405,12 +585,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+            "homepage": "https://mths.be/emoji-regex",
             "id": 24557614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-13T08:13:29Z",
+            "open_issues": 12,
             "owner": "mathiasbynens",
             "repo": "emoji-regex",
-            "stars": 1909
+            "stars": 1909,
+            "topics": [
+              "emoji",
+              "regex",
+              "regexp",
+              "regular-expression",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -421,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Javascript module to convert Emoji keywords to images",
+            "homepage": "http://hassankhan.github.io/emojify.js/",
             "id": 7070571,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-02T09:05:13Z",
+            "open_issues": 53,
             "owner": "joypixels",
             "repo": "emojify.js",
-            "stars": 1790
+            "stars": 1790,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -437,12 +633,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji keyword library.",
+            "homepage": "https://unpkg.com/emojilib@latest",
             "id": 15458942,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-08T21:38:30Z",
+            "open_issues": 13,
             "owner": "muan",
             "repo": "emojilib",
-            "stars": 1773
+            "stars": 1773,
+            "topics": [
+              "emoji",
+              "emoji-searcher"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -453,12 +657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Translate text to ✨emoji ✨!",
+            "homepage": "http://meowni.ca/emoji-translate/",
             "id": 29600789,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-30T20:55:35Z",
+            "open_issues": 6,
             "owner": "notwaldorf",
             "repo": "emoji-translate",
-            "stars": 1663
+            "stars": 1663,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -469,12 +678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji on the command line :scream:",
+            "homepage": null,
             "id": 39602644,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-01-08T15:26:52Z",
+            "open_issues": 10,
             "owner": "mrowa44",
             "repo": "emojify",
-            "stars": 1584
+            "stars": 1584,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -485,12 +699,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💖 simple emoji support for node.js projects",
+            "homepage": null,
             "id": 22914463,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-07T08:30:10Z",
+            "open_issues": 17,
             "owner": "omnidan",
             "repo": "node-emoji",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "emoji",
+              "emoji-support",
+              "javascript",
+              "node",
+              "node-emoji",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -501,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PHP Emoji conversion library",
+            "homepage": null,
             "id": 845547,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-11-07T03:23:55Z",
+            "open_issues": 14,
             "owner": "iamcal",
             "repo": "php-emoji",
-            "stars": 1247
+            "stars": 1247,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -517,12 +748,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":boom::bomb::boom:",
+            "homepage": "https://muan.co/emoji-minesweeper/",
             "id": 36055767,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-10T19:33:26Z",
+            "open_issues": 8,
             "owner": "muan",
             "repo": "emoji-minesweeper",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "emoji",
+              "game",
+              "minesweeper"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -533,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dizzy: track ALL the emoji",
+            "homepage": "https://emojitracker.com",
             "id": 10339298,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-22T15:17:03Z",
+            "open_issues": 9,
             "owner": "mroth",
             "repo": "emojitracker",
-            "stars": 742
+            "stars": 742,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -549,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alfred 2 workflow for searching emoji codes. :shit:",
+            "homepage": null,
             "id": 9185413,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-10T13:04:17Z",
+            "open_issues": 0,
             "owner": "carlosgaldino",
             "repo": "alfred-emoji-workflow",
-            "stars": 635
+            "stars": 635,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -565,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":smiley: Emoji in Vim",
+            "homepage": null,
             "id": 13007551,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2020-08-15T22:13:51Z",
+            "open_issues": 10,
             "owner": "junegunn",
             "repo": "vim-emoji",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -581,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A gem. For Emoji. For everyone. ❤",
+            "homepage": null,
             "id": 11370228,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-12-19T19:31:47Z",
+            "open_issues": 5,
             "owner": "wpeterson",
             "repo": "emoji",
-            "stars": 445
+            "stars": 445,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -597,12 +857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":camera::art: Pixellate an image into emoji",
+            "homepage": "http://meowni.ca/emojillate",
             "id": 63375142,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-11-30T20:56:18Z",
+            "open_issues": 2,
             "owner": "notwaldorf",
             "repo": "emojillate",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -613,12 +878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":card_index: All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc.",
+            "homepage": null,
             "id": 5506435,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2013-12-16T06:08:16Z",
+            "open_issues": 2,
             "owner": "leereilly",
             "repo": "emoji",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -629,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Emoji Formatters for RSpec",
+            "homepage": null,
             "id": 6737965,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2013-12-15T04:50:04Z",
+            "open_issues": 2,
             "owner": "cupakromer",
             "repo": "emoji-rspec",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -645,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":sheep: Making megamojis like a pro.",
+            "homepage": "http://megamoji.muan.co/index-new.html",
             "id": 14813367,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-02-01T01:18:12Z",
+            "open_issues": 3,
             "owner": "muan",
             "repo": "megamoji",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -661,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github emoji parsing done right :point_up: :pray: :point_up_2: :clap: :ok_hand:",
+            "homepage": "http://zzarcon.github.io/gh-emoji/",
             "id": 55087217,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-04T15:58:11Z",
+            "open_issues": 7,
             "owner": "zzarcon",
             "repo": "gh-emoji",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -677,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unicode to emoji conversion utility for Node.js",
+            "homepage": null,
             "id": 19410999,
             "language": "CSS",
+            "license": null,
             "last_commit": "2015-09-18T16:31:56Z",
+            "open_issues": 2,
             "owner": "ded",
             "repo": "emojize",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -693,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":poop: CDN static asset generation for emoji",
+            "homepage": "http://emojistatic.github.io",
             "id": 10412920,
             "language": "CSS",
+            "license": null,
             "last_commit": "2014-05-04T01:01:26Z",
+            "open_issues": 2,
             "owner": "mroth",
             "repo": "emojistatic",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -709,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":sunglasses: Emoji encoding swiss army knife for NodeJS",
+            "homepage": null,
             "id": 23362954,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2016-03-18T04:52:43Z",
+            "open_issues": 4,
             "owner": "mroth",
             "repo": "emoji-data-js",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -725,12 +1025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to output random emoji names.",
+            "homepage": "https://github.com/JuanitoFatas/mojime",
             "id": 43660831,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2018-01-17T06:06:28Z",
+            "open_issues": 0,
             "owner": "JuanitoFatas",
             "repo": "mojime",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -741,12 +1046,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crypto Puzzles is a tool and library to provide a bunch of functions for encryption or pseudo encryption as puzzles or brain teasers. Awesome for kids but some puzzles are also a challenge for adults.",
+            "homepage": "http://rupp.de/crypto_puzzles/crypto_puzzles_web.py",
             "id": 270104566,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-11T09:45:57Z",
+            "open_issues": 1,
             "owner": "ruppde",
             "repo": "crypto_puzzles",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "brain-teaser-game",
+              "crackmes",
+              "crypto",
+              "kids",
+              "kids-coding",
+              "kids-crypto",
+              "puzzle",
+              "puzzle-game",
+              "puzzle-generator",
+              "qr-codes",
+              "qr-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -757,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core tools for emojidex / full emojidex toolkit written in Ruby",
+            "homepage": "http://developer.emojidex.com",
             "id": 20517968,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2019-07-05T14:59:11Z",
+            "open_issues": 0,
             "owner": "emojidex",
             "repo": "emojidex",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         }
@@ -779,12 +1106,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design icons by Google (Material Symbols)",
+            "homepage": "http://google.github.io/material-design-icons/",
             "id": 24953448,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:47:19Z",
+            "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53837
+            "stars": 53838,
+            "topics": [
+              "android",
+              "icons",
+              "ios",
+              "material",
+              "material-design",
+              "sprites",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -795,12 +1135,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":flags: A curated collection of all country flags in SVG — plus the CSS for easier integration",
+            "homepage": "https://flagicons.lipis.dev",
             "id": 13099301,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-10T02:02:50Z",
+            "open_issues": 40,
             "owner": "lipis",
             "repo": "flag-icons",
-            "stars": 12361
+            "stars": 12362,
+            "topics": [
+              "country",
+              "country-flags",
+              "css",
+              "icon-css",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -811,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate custom icon webfonts from the comfort of the command line.",
+            "homepage": null,
             "id": 6118575,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-01-09T01:30:28Z",
+            "open_issues": 133,
             "owner": "FontCustom",
             "repo": "fontcustom",
-            "stars": 3297
+            "stars": 3297,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -827,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.",
+            "homepage": null,
             "id": 8239165,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2021-01-27T07:36:17Z",
+            "open_issues": 55,
             "owner": "PrideChung",
             "repo": "FontAwesomeKit",
-            "stars": 2802
+            "stars": 2802,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -843,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal set of icons in raster, vector and font formats — free for public use.",
+            "homepage": "http://useiconic.com/open/",
             "id": 2434294,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-08T09:28:54Z",
+            "open_issues": 7,
             "owner": "somerandomdude",
             "repo": "Iconic",
-            "stars": 2343
+            "stars": 2344,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -859,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An icon font for use with Google Maps API and Google Places API using SVG markers and icon labels",
+            "homepage": "http://map-icons.com/",
             "id": 11943376,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-02-23T09:13:30Z",
+            "open_issues": 23,
             "owner": "scottdejonge",
             "repo": "map-icons",
-            "stars": 1041
+            "stars": 1041,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -875,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique \"multi-color\" option in CSS for over 60 social brands.",
+            "homepage": null,
             "id": 17005597,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-04-23T19:40:54Z",
+            "open_issues": 14,
             "owner": "parkerbennett",
             "repo": "stackicons",
-            "stars": 948
+            "stars": 948,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -891,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Font Mfizz - Vector Icons for Technology and Software Geeks",
+            "homepage": null,
             "id": 11347035,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2021-05-11T03:09:39Z",
+            "open_issues": 52,
             "owner": "fizzed",
             "repo": "font-mfizz",
-            "stars": 539
+            "stars": 539,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -907,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of icons for displaying a visual (\"analog\") representation of time stamps. ",
+            "homepage": null,
             "id": 5782969,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2016-02-12T17:01:45Z",
+            "open_issues": 0,
             "owner": "jhogue",
             "repo": "PE-Analog-Clock-icon-font",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -923,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebHostingHub Glyphs is a most comprehensive set of glyph icons available as font. The goal is to be fully compatible with Bootstrap and other frameworks and CMSs. It will be constantly updated so if you have ideas for new icons, do let us know.",
+            "homepage": "http://webhostinghub.com/glyphs",
             "id": 7341794,
             "language": null,
+            "license": null,
             "last_commit": "2013-07-29T18:15:51Z",
+            "open_issues": 10,
             "owner": "BanzaiTokyo",
             "repo": "webhostinghub-glyphs",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -939,12 +1330,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+            "homepage": "http://xtoolkit.github.io/Micon/",
             "id": 42330298,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-02-18T14:01:51Z",
+            "open_issues": 3,
             "owner": "xtoolkit",
             "repo": "Micon",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "bower",
+              "css",
+              "custom-fonts",
+              "font",
+              "font-tooklit",
+              "iconic-toolkit",
+              "icons",
+              "micon"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -960,24 +1365,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zocial: CSS login and social buttons",
+                "homepage": null,
                 "id": 1308974,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-11-08T13:57:14Z",
+                "open_issues": 10,
                 "owner": "smcllns",
                 "repo": "css-social-buttons",
-                "stars": 1675
+                "stars": 1675,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Sass and Compass CSS3 social buttons framework",
+            "homepage": "http://zocialbuttons.com/",
             "id": 2456069,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-07-10T19:53:28Z",
+            "open_issues": 5,
             "owner": "adamstac",
             "repo": "zocial",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -988,12 +1403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appa Sariicon is a collection of 147 webfont icons that are carefully designed for Web and Mobile Apps",
+            "homepage": "http://code.sariina.com/appa-sariicon",
             "id": 46210044,
             "language": "HTML",
+            "license": "OFL-1.1",
             "last_commit": "2015-11-16T11:01:42Z",
+            "open_issues": 0,
             "owner": "sariina",
             "repo": "appa-sariicon",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1004,12 +1424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple true type font including a glyph for all 720 minutes of an analog clock.",
+            "homepage": null,
             "id": 1102628441,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-11-24T19:26:10Z",
+            "open_issues": 0,
             "owner": "fshaxe",
             "repo": "SimpleAnalogClockFont",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1020,12 +1445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animals font useful for kids and education",
+            "homepage": null,
             "id": 312373153,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-26T17:37:28Z",
+            "open_issues": 1,
             "owner": "ariassd",
             "repo": "crypto-animal-font",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         }
@@ -1042,12 +1472,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+            "homepage": "https://NerdFonts.com",
             "id": 27574418,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T10:22:17Z",
+            "open_issues": 20,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64445
+            "stars": 64446,
+            "topics": [
+              "font",
+              "font-awesome",
+              "fonts",
+              "hacktoberfest",
+              "icon-font",
+              "iconic-fonts",
+              "octicons",
+              "patched-fonts",
+              "patcher",
+              "powerline",
+              "python",
+              "shell",
+              "statusline"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1058,12 +1507,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A typeface designed for source code",
+            "homepage": "http://sourcefoundry.org/hack/",
             "id": 37829238,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-21T18:05:33Z",
+            "open_issues": 151,
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17335
+            "stars": 17335,
+            "topics": [
+              "developer",
+              "developer-tools",
+              "font",
+              "hack",
+              "ttf",
+              "typeface",
+              "web-fonts"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1074,12 +1536,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A font family with a great monospaced variant for programmers.",
+            "homepage": "http://openfontlibrary.org/en/font/fantasque-sans-mono",
             "id": 14488312,
             "language": "Python",
+            "license": "OFL-1.1",
             "last_commit": "2026-03-15T16:37:54Z",
+            "open_issues": 71,
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7436
+            "stars": 7436,
+            "topics": [
+              "font",
+              "monospace-font"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1090,12 +1560,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typefaces for source code beautification",
+            "homepage": null,
             "id": 37382467,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-19T17:07:57Z",
+            "open_issues": 25,
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6509
+            "stars": 6509,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "developer",
+              "developer-tools",
+              "font",
+              "font-face",
+              "fonts",
+              "list",
+              "otf",
+              "otf-fonts",
+              "ttf",
+              "typeface",
+              "typefaces"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1106,12 +1595,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recursive Mono & Sans is a variable font family for code & UI",
+            "homepage": "https://recursive.design",
             "id": 121307662,
             "language": "Python",
+            "license": "OFL-1.1",
             "last_commit": "2025-10-02T01:50:23Z",
+            "open_issues": 41,
             "owner": "arrowtype",
             "repo": "recursive",
-            "stars": 3869
+            "stars": 3869,
+            "topics": [
+              "font",
+              "fontmake",
+              "fonttools",
+              "google-fonts",
+              "type-design",
+              "variable-font"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1122,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customized version of Apple's Menlo font. Great monospaced font for development work. Should also work with the Windows Console (see Wiki for Windows infos).",
+            "homepage": null,
             "id": 580108,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-22T02:22:41Z",
+            "open_issues": 24,
             "owner": "andreberg",
             "repo": "Meslo-Font",
-            "stars": 2736
+            "stars": 2736,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1138,12 +1644,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft",
+            "homepage": "https://discord.gg/6yxE9prcNc",
             "id": 752768485,
             "language": "Python",
+            "license": "OFL-1.1",
             "last_commit": "2025-08-05T21:13:43Z",
+            "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1366
+            "stars": 1366,
+            "topics": [
+              "font",
+              "fonts",
+              "ligatures",
+              "minecraft",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1154,12 +1671,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "succulent monospace programming font",
+            "homepage": "https://b.agaric.net/page/agave",
             "id": 45587374,
             "language": "Tcl",
+            "license": "OFL-1.1",
             "last_commit": "2026-06-20T16:03:38Z",
+            "open_issues": 23,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1053
+            "stars": 1053,
+            "topics": [
+              "font",
+              "monospace",
+              "monospace-font",
+              "programming-font",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1170,12 +1698,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grotesque-esque monospaced typeface",
+            "homepage": null,
             "id": 39522319,
             "language": "CSS",
+            "license": "OFL-1.1",
             "last_commit": "2020-11-29T13:19:25Z",
+            "open_issues": 3,
             "owner": "hatsumatsu",
             "repo": "Lab-Mono",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "font",
+              "monospace",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1186,12 +1723,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!",
+            "homepage": null,
             "id": 807007020,
             "language": null,
+            "license": null,
             "last_commit": "2024-11-25T13:11:58Z",
+            "open_issues": 19,
             "owner": "haithium",
             "repo": "iconic-fonts",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "bash",
+              "fontawesome",
+              "fonts",
+              "icon",
+              "icon-fonts",
+              "icon-pack",
+              "iconic-fonts",
+              "icons",
+              "icons-pack",
+              "iconset",
+              "lucide-icons",
+              "material-design",
+              "nerd-fonts",
+              "patched-fonts",
+              "patcher",
+              "shell",
+              "svg",
+              "svg-icons",
+              "svgs",
+              "tabler-icons"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1207,12 +1770,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조",
+                "homepage": "https://adobe.ly/SourceHanSerif",
                 "id": 84254035,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-30T18:57:27Z",
+                "open_issues": 74,
                 "owner": "adobe-fonts",
                 "repo": "source-han-serif",
-                "stars": 9653
+                "stars": 9654,
+                "topics": [
+                  "cff",
+                  "cff2",
+                  "cjk",
+                  "font",
+                  "opentype",
+                  "otc",
+                  "otf",
+                  "source-han",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1223,12 +1801,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sans serif font family for user interface environments",
+                "homepage": "https://adobe-fonts.github.io/source-sans",
                 "id": 5362507,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2025-10-28T14:26:26Z",
+                "open_issues": 42,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3733
+                "stars": 3733,
+                "topics": [
+                  "afdko",
+                  "fonts",
+                  "opentype-fonts",
+                  "otf",
+                  "ttf-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1239,12 +1829,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. ",
+                "homepage": "https://adobe-fonts.github.io/source-serif",
                 "id": 18125500,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2025-11-17T22:59:10Z",
+                "open_issues": 44,
                 "owner": "adobe-fonts",
                 "repo": "source-serif",
-                "stars": 2369
+                "stars": 2369,
+                "topics": [
+                  "afdko",
+                  "fonts",
+                  "opentype-fonts",
+                  "otf",
+                  "ttf-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             }
@@ -1259,12 +1861,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free monospaced font with programming ligatures",
+                "homepage": null,
                 "id": 26500787,
                 "language": "Clojure",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-28T17:02:16Z",
+                "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 81959
+                "stars": 81959,
+                "topics": [
+                  "font",
+                  "ligatures",
+                  "programming-ligatures"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1275,12 +1886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+                "homepage": null,
                 "id": 196284711,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-06T03:26:32Z",
+                "open_issues": 162,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27870
+                "stars": 27870,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1291,12 +1907,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile typeface for code, from code.",
+                "homepage": "http://be5invis.github.io/Iosevka",
                 "id": 39315600,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T03:38:17Z",
+                "license": "OFL-1.1",
+                "last_commit": "2026-08-29T00:25:33Z",
+                "open_issues": 101,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22686
+                "stars": 22687,
+                "topics": [
+                  "font",
+                  "iosevka",
+                  "ligatures",
+                  "monospace-font",
+                  "opentype-features",
+                  "programming-font",
+                  "programming-ligatures",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1307,12 +1937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/",
+                "homepage": null,
                 "id": 33323837,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-26T07:45:56Z",
+                "open_issues": 77,
                 "owner": "larsenwork",
                 "repo": "monoid",
-                "stars": 7959
+                "stars": 7959,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1323,12 +1958,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hasklig - a code font with monospaced ligatures",
+                "homepage": null,
                 "id": 18487827,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2022-02-19T01:25:54Z",
+                "open_issues": 44,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5716
+                "stars": 5716,
+                "topics": [
+                  "afdko",
+                  "font",
+                  "hasklig",
+                  "ligatures",
+                  "otf"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1339,12 +1985,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono",
+                "homepage": null,
                 "id": 930187154,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:25:04Z",
+                "license": "OFL-1.1",
+                "last_commit": "2026-08-29T02:21:47Z",
+                "open_issues": 6,
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
-                "stars": 2233
+                "stars": 2233,
+                "topics": [
+                  "font",
+                  "fusion",
+                  "github-actions",
+                  "github-workflows",
+                  "jetbrains-mono",
+                  "jetbrainsmaplemono",
+                  "maple-font",
+                  "maple-mono"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1355,12 +2015,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤘Open source programming font",
+                "homepage": "https://lilex.myrt.co",
                 "id": 214013071,
                 "language": "Astro",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-13T09:11:09Z",
+                "open_issues": 5,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1735
+                "stars": 1735,
+                "topics": [
+                  "font",
+                  "ligatures",
+                  "opentype-features",
+                  "programming-ligatures"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1371,12 +2041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fixedsys Excelsior font with programming ligatures",
+                "homepage": null,
                 "id": 58125502,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-04-23T02:40:44Z",
+                "open_issues": 5,
                 "owner": "kika",
                 "repo": "fixedsys",
-                "stars": 1290
+                "stars": 1290,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             }
@@ -1398,12 +2073,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify font seamlessly",
+            "homepage": "http://ecomfe.github.io/fontmin",
             "id": 32005403,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-13T07:03:41Z",
+            "open_issues": 64,
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6213
+            "stars": 6213,
+            "topics": [
+              "font",
+              "fontmin",
+              "icon-font",
+              "subset"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1414,12 +2099,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
+            "homepage": "https://fontsource.org",
             "id": 264742473,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:03:21Z",
+            "open_issues": 35,
             "owner": "fontsource",
             "repo": "fontsource",
-            "stars": 6090
+            "stars": 6091,
+            "topics": [
+              "css",
+              "font",
+              "font-family",
+              "font-files",
+              "font-loading",
+              "fonts",
+              "fontsource",
+              "google",
+              "google-fonts",
+              "open-source",
+              "sass",
+              "typefaces"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1430,12 +2133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, easy to use Javascript <span> injector for radical Web Typography",
+            "homepage": "http://letteringjs.com",
             "id": 904419,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-27T15:59:40Z",
+            "open_issues": 16,
             "owner": "davatron5000",
             "repo": "Lettering.js",
-            "stars": 5334
+            "stars": 5334,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1446,12 +2154,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read and write OpenType fonts using JavaScript.",
+            "homepage": "https://opentype.js.org/",
             "id": 13150056,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T03:59:23Z",
+            "open_issues": 203,
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5011
+            "stars": 5012,
+            "topics": [
+              "font",
+              "glyphs",
+              "javascript",
+              "kerning",
+              "nodejs",
+              "opentype",
+              "opentypejs",
+              "otf",
+              "truetype"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1462,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTML pre-proces­sor for web ty­pog­ra­phy",
+            "homepage": "https://typeset.lllllllllllllllll.com/",
             "id": 31377223,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2025-04-19T13:46:51Z",
+            "open_issues": 20,
             "owner": "davidmerfield",
             "repo": "Typeset",
-            "stars": 2679
+            "stars": 2679,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1478,12 +2206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced font engine for Node and the browser",
+            "homepage": null,
             "id": 27195805,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-14T09:31:51Z",
+            "open_issues": 165,
             "owner": "foliojs",
             "repo": "fontkit",
-            "stars": 1668
+            "stars": 1668,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1494,12 +2227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typr.js - process fonts in Javascript",
+            "homepage": null,
             "id": 64840597,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-28T18:36:56Z",
+            "open_issues": 10,
             "owner": "photopea",
             "repo": "Typr.js",
-            "stars": 1000
+            "stars": 1000,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1510,12 +2248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implement localStorage web font caching in seconds",
+            "homepage": "http://jaicab.com/localFont/",
             "id": 31560925,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-02-19T12:46:25Z",
+            "open_issues": 2,
             "owner": "jaicab",
             "repo": "localFont",
-            "stars": 845
+            "stars": 845,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1526,12 +2269,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2",
+            "homepage": null,
             "id": 298284873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-19T02:40:51Z",
+            "open_issues": 1,
             "owner": "funbox",
             "repo": "beatrix",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "font-converter",
+              "fonttools",
+              "glyphs",
+              "otf",
+              "subset",
+              "ttf",
+              "ttf2woff",
+              "ttf2woff2",
+              "webfonts",
+              "woff",
+              "woff2"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1544,12 +2304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
+                "homepage": null,
                 "id": 620636,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-04T09:27:53Z",
+                "open_issues": 107,
                 "owner": "typekit",
                 "repo": "webfontloader",
-                "stars": 9249
+                "stars": 9249,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             },
@@ -1560,12 +2325,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webfont loading. Simple, small, and efficient.",
+                "homepage": "https://fontfaceobserver.com",
                 "id": 27209132,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-02-18T06:37:15Z",
+                "open_issues": 10,
                 "owner": "bramstein",
                 "repo": "fontfaceobserver",
-                "stars": 4335
+                "stars": 4335,
+                "topics": [
+                  "font-loading",
+                  "fontfaceobserver",
+                  "web-fonts",
+                  "webfonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
             }
@@ -1587,12 +2362,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Web Font Icons",
+            "homepage": null,
             "id": 50588965,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-11T07:21:31Z",
+            "open_issues": 2,
             "owner": "vkarampinis",
             "repo": "awesome-icons",
-            "stars": 1557
+            "stars": 1557,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "icon-font",
+              "icon-fonts",
+              "icon-packs",
+              "icons",
+              "svg-icons",
+              "weather-icons",
+              "web-fonts",
+              "web-icons"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1603,12 +2395,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✏︎ Curated list about digital typography 🔥",
+            "homepage": null,
             "id": 60974520,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-28T20:27:55Z",
+            "open_issues": 15,
             "owner": "Jolg42",
             "repo": "awesome-typography",
-            "stars": 1532
+            "stars": 1532,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "color-fonts",
+              "emoji",
+              "font-editor",
+              "font-family",
+              "fonts",
+              "opentype",
+              "opentype-fonts",
+              "otf",
+              "truetype",
+              "ttf",
+              "typeface",
+              "typography",
+              "unicode",
+              "webfonts",
+              "woff",
+              "woff2"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         }
@@ -1625,12 +2441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Patched fonts for Powerline users.",
+            "homepage": null,
             "id": 7240954,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-03-22T16:47:30Z",
+            "open_issues": 185,
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26325
+            "stars": 26325,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1641,12 +2462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free (libre) font editor for Windows, Mac OS X and GNU+Linux",
+            "homepage": "http://fontforge.github.io/",
             "id": 5390156,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T19:47:54Z",
+            "open_issues": 1031,
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7917
+            "stars": 7917,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1657,12 +2483,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "apt for fonts, the missing font manager for macOS/linux",
+            "homepage": null,
             "id": 335525680,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:03:11Z",
+            "open_issues": 9,
             "owner": "alexmyczko",
             "repo": "fnt",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "cli",
+              "debian",
+              "fonts",
+              "freebsd",
+              "haiku-os",
+              "individual-fonts",
+              "macos",
+              "typography",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1673,12 +2514,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TruFont is a font editor that uses the UFO font format and offers Python scripting.",
+            "homepage": "http://trufont.github.io/",
             "id": 44068507,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-02T16:43:50Z",
+            "open_issues": 95,
             "owner": "trufont",
             "repo": "trufont",
-            "stars": 505
+            "stars": 505,
+            "topics": [
+              "desktop",
+              "fonts",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         },
@@ -1689,12 +2539,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A command-line font manager",
+            "homepage": null,
             "id": 11049339,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-09-29T18:09:09Z",
+            "open_issues": 5,
             "owner": "alyssais",
             "repo": "font",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
         }
@@ -1703,15 +2558,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:33.013Z",
+    "last_updated": "2026-08-29T04:26:28.020Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of fonts and everything",
+      "homepage": null,
       "id": 29055846,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-26T05:01:07Z",
+      "open_issues": 9,
       "owner": "brabadu",
       "repo": "awesome-fonts",
-      "stars": 2066
+      "stars": 2066,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fonts",
+        "free-fonts",
+        "google-fonts",
+        "icon-font",
+        "list",
+        "programming-fonts"
+      ]
     },
     "original_repository_sha": "203f555a1dbbe547eeafdaeb0c722ac2057f0005",
     "enhanced_repository": "enhansome/enhansome-fonts",
