@@ -21,7 +21,7 @@
                 "open_issues": 80,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11607,
+                "stars": 11612,
                 "topics": [
                   "design",
                   "font",
@@ -74,10 +74,10 @@
                     "language": "HTML",
                     "license": null,
                     "last_commit": "2026-08-28T14:14:46Z",
-                    "open_issues": 1418,
+                    "open_issues": 1419,
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20427,
+                    "stars": 20429,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
@@ -170,7 +170,7 @@
                 "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19847,
+                "stars": 19852,
                 "topics": [
                   "design",
                   "font",
@@ -195,7 +195,7 @@
                 "open_issues": 61,
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19595,
+                "stars": 19597,
                 "topics": [
                   "font",
                   "fonts",
@@ -285,7 +285,7 @@
                 "open_issues": 26,
                 "owner": "weiweihuanghuang",
                 "repo": "Work-Sans",
-                "stars": 1703,
+                "stars": 1704,
                 "topics": [
                   "font",
                   "fonts",
@@ -453,7 +453,7 @@
             "open_issues": 143,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17767,
+            "stars": 17768,
             "topics": [
               "emoji",
               "twemoji"
@@ -1115,7 +1115,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53842,
+            "stars": 53847,
             "topics": [
               "android",
               "icons",
@@ -1144,7 +1144,7 @@
             "open_issues": 40,
             "owner": "lipis",
             "repo": "flag-icons",
-            "stars": 12364,
+            "stars": 12362,
             "topics": [
               "country",
               "country-flags",
@@ -1481,7 +1481,7 @@
             "open_issues": 20,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64458,
+            "stars": 64466,
             "topics": [
               "font",
               "font-awesome",
@@ -1516,7 +1516,7 @@
             "open_issues": 151,
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17335,
+            "stars": 17336,
             "topics": [
               "developer",
               "developer-tools",
@@ -1569,7 +1569,7 @@
             "open_issues": 25,
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6509,
+            "stars": 6510,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1653,7 +1653,7 @@
             "open_issues": 16,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1366,
+            "stars": 1365,
             "topics": [
               "font",
               "fonts",
@@ -1779,7 +1779,7 @@
                 "open_issues": 74,
                 "owner": "adobe-fonts",
                 "repo": "source-han-serif",
-                "stars": 9654,
+                "stars": 9656,
                 "topics": [
                   "cff",
                   "cff2",
@@ -1870,7 +1870,7 @@
                 "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 81963,
+                "stars": 81966,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1912,11 +1912,11 @@
                 "id": 39315600,
                 "language": "JavaScript",
                 "license": "OFL-1.1",
-                "last_commit": "2026-08-29T00:25:33Z",
+                "last_commit": "2026-08-29T19:24:11Z",
                 "open_issues": 102,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22691,
+                "stars": 22693,
                 "topics": [
                   "font",
                   "iosevka",
@@ -1990,11 +1990,11 @@
                 "id": 930187154,
                 "language": "Python",
                 "license": "OFL-1.1",
-                "last_commit": "2026-08-29T14:30:28Z",
+                "last_commit": "2026-08-30T15:18:13Z",
                 "open_issues": 6,
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
-                "stars": 2235,
+                "stars": 2237,
                 "topics": [
                   "font",
                   "fusion",
@@ -2050,7 +2050,7 @@
                 "open_issues": 5,
                 "owner": "kika",
                 "repo": "fixedsys",
-                "stars": 1290,
+                "stars": 1292,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2108,7 +2108,7 @@
             "open_issues": 35,
             "owner": "fontsource",
             "repo": "fontsource",
-            "stars": 6091,
+            "stars": 6094,
             "topics": [
               "css",
               "font",
@@ -2450,7 +2450,7 @@
             "open_issues": 184,
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26324,
+            "stars": 26325,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2471,7 +2471,7 @@
             "open_issues": 1031,
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7916,
+            "stars": 7920,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2558,7 +2558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:24:24.808Z",
+    "last_updated": "2026-08-30T17:48:07.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of fonts and everything",
@@ -2570,7 +2570,7 @@
       "open_issues": 10,
       "owner": "brabadu",
       "repo": "awesome-fonts",
-      "stars": 2066,
+      "stars": 2065,
       "topics": [
         "awesome",
         "awesome-list",
