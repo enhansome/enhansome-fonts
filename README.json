@@ -21,7 +21,7 @@
                 "open_issues": 85,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11669,
+                "stars": 11670,
                 "topics": [
                   "design",
                   "font",
@@ -46,7 +46,7 @@
                 "open_issues": 31,
                 "owner": "mozilla",
                 "repo": "zilla-slab",
-                "stars": 460,
+                "stars": 459,
                 "topics": [
                   "mozilla",
                   "typography",
@@ -73,7 +73,7 @@
                     "id": 30675533,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-02T01:06:30Z",
+                    "last_commit": "2026-10-03T01:04:52Z",
                     "open_issues": 1444,
                     "owner": "google",
                     "repo": "fonts",
@@ -127,7 +127,7 @@
                 {
                   "node_type": "item",
                   "title": "Downloader for Google Fonts",
-                  "description": null,
+                  "description": "qrpike/Web-Font-Load",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -170,7 +170,7 @@
                 "open_issues": 143,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19929,
+                "stars": 19930,
                 "topics": [
                   "design",
                   "font",
@@ -195,7 +195,7 @@
                 "open_issues": 63,
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19689,
+                "stars": 19690,
                 "topics": [
                   "font",
                   "fonts",
@@ -272,7 +272,7 @@
             {
               "node_type": "item",
               "title": "WorkSans",
-              "description": null,
+              "description": "weiweihuanghuang/Work-Sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -408,7 +408,7 @@
             {
               "node_type": "item",
               "title": "SansBullshitSans",
-              "description": null,
+              "description": "RoelN/SansBullshitSans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1042,7 +1042,7 @@
         {
           "node_type": "item",
           "title": "Crypto Puzzles",
-          "description": null,
+          "description": "ruppde/crypto_puzzles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54062,
+            "stars": 54063,
             "topics": [
               "android",
               "icons",
@@ -1305,7 +1305,7 @@
         {
           "node_type": "item",
           "title": "WebHostingHub Glyphs",
-          "description": null,
+          "description": "BanzaiTokyo/webhostinghub-glyphs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1481,7 +1481,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64792,
+            "stars": 64796,
             "topics": [
               "font",
               "font-awesome",
@@ -1503,7 +1503,7 @@
         {
           "node_type": "item",
           "title": "Hack",
-          "description": null,
+          "description": "source-foundry/Hack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1516,7 +1516,7 @@
             "open_issues": 155,
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17362,
+            "stars": 17363,
             "topics": [
               "developer",
               "developer-tools",
@@ -1532,7 +1532,7 @@
         {
           "node_type": "item",
           "title": "Fantasque Sans Mono",
-          "description": null,
+          "description": "belluzj/fantasque-sans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1545,7 +1545,7 @@
             "open_issues": 72,
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7458,
+            "stars": 7456,
             "topics": [
               "font",
               "monospace-font"
@@ -1569,7 +1569,7 @@
             "open_issues": 25,
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6518,
+            "stars": 6519,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1640,7 +1640,7 @@
         {
           "node_type": "item",
           "title": "Miracode",
-          "description": null,
+          "description": "IdreesInc/Miracode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1766,7 +1766,7 @@
             {
               "node_type": "item",
               "title": "Source Han Serif",
-              "description": null,
+              "description": "adobe-fonts/source-han-serif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1797,7 +1797,7 @@
             {
               "node_type": "item",
               "title": "Source Sans Pro",
-              "description": null,
+              "description": "adobe-fonts/source-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1825,7 +1825,7 @@
             {
               "node_type": "item",
               "title": "Source Serif Pro",
-              "description": null,
+              "description": "adobe-fonts/source-serif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1870,7 +1870,7 @@
                 "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82079,
+                "stars": 82080,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1895,7 +1895,7 @@
                 "open_issues": 163,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27908,
+                "stars": 27907,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -1913,10 +1913,10 @@
                 "language": "JavaScript",
                 "license": "OFL-1.1",
                 "last_commit": "2026-10-01T05:49:59Z",
-                "open_issues": 99,
+                "open_issues": 98,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22804,
+                "stars": 22807,
                 "topics": [
                   "font",
                   "iosevka",
@@ -1933,7 +1933,7 @@
             {
               "node_type": "item",
               "title": "Monoid",
-              "description": null,
+              "description": "larsenwork/monoid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1954,7 +1954,7 @@
             {
               "node_type": "item",
               "title": "Hasklig",
-              "description": null,
+              "description": "i-tu/Hasklig",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1990,7 +1990,7 @@
                 "id": 930187154,
                 "language": "Python",
                 "license": "OFL-1.1",
-                "last_commit": "2026-10-02T18:07:37Z",
+                "last_commit": "2026-10-03T01:11:42Z",
                 "open_issues": 6,
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
@@ -2024,7 +2024,7 @@
                 "open_issues": 5,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1765,
+                "stars": 1764,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2037,7 +2037,7 @@
             {
               "node_type": "item",
               "title": "Fixedsys Excelsior",
-              "description": null,
+              "description": "kika/fixedsys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2105,10 +2105,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T03:16:53Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "fontsource",
             "repo": "fontsource",
-            "stars": 6153,
+            "stars": 6152,
             "topics": [
               "css",
               "font",
@@ -2129,7 +2129,7 @@
         {
           "node_type": "item",
           "title": "Lettering.js",
-          "description": null,
+          "description": "davatron5000/Lettering.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2211,8 +2211,8 @@
             "id": 27195805,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-29T23:16:14Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-02T21:33:59Z",
+            "open_issues": 164,
             "owner": "foliojs",
             "repo": "fontkit",
             "stars": 1673,
@@ -2300,7 +2300,7 @@
             {
               "node_type": "item",
               "title": "Web Font Loader",
-              "description": null,
+              "description": "typekit/webfontloader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2321,7 +2321,7 @@
             {
               "node_type": "item",
               "title": "Font Face Observer",
-              "description": null,
+              "description": "bramstein/fontfaceobserver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2358,7 +2358,7 @@
         {
           "node_type": "item",
           "title": "Awesome Icons",
-          "description": null,
+          "description": "vkarampinis/awesome-icons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2371,7 +2371,7 @@
             "open_issues": 5,
             "owner": "vkarampinis",
             "repo": "awesome-icons",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2391,7 +2391,7 @@
         {
           "node_type": "item",
           "title": "Awesome Typography",
-          "description": null,
+          "description": "Jolg42/awesome-typography",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2404,7 +2404,7 @@
             "open_issues": 9,
             "owner": "Jolg42",
             "repo": "awesome-typography",
-            "stars": 1539,
+            "stars": 1540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2467,11 +2467,11 @@
             "id": 5390156,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T13:49:59Z",
-            "open_issues": 1041,
+            "last_commit": "2026-10-02T19:07:42Z",
+            "open_issues": 1040,
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7992,
+            "stars": 7993,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2535,7 +2535,7 @@
         {
           "node_type": "item",
           "title": "Command line font-manager",
-          "description": null,
+          "description": "alyssais/font",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2558,7 +2558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:43:44.801Z",
+    "last_updated": "2026-10-03T04:49:54.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of fonts and everything",
@@ -2570,7 +2570,7 @@
       "open_issues": 12,
       "owner": "brabadu",
       "repo": "awesome-fonts",
-      "stars": 2073,
+      "stars": 2075,
       "topics": [
         "awesome",
         "awesome-list",
