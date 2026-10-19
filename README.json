@@ -82,7 +82,7 @@
                 "open_issues": 85,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11704,
+                "stars": 11713,
                 "topics": [
                   "design",
                   "font",
@@ -134,11 +134,11 @@
                     "id": 30675533,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-18T01:02:58Z",
-                    "open_issues": 1444,
+                    "last_commit": "2026-10-19T01:00:08Z",
+                    "open_issues": 1447,
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20644,
+                    "stars": 20650,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
@@ -231,7 +231,7 @@
                 "open_issues": 148,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19977,
+                "stars": 19979,
                 "topics": [
                   "design",
                   "font",
@@ -256,7 +256,7 @@
                 "open_issues": 67,
                 "owner": "githubnext",
                 "repo": "monaspace",
-                "stars": 19730,
+                "stars": 19733,
                 "topics": [
                   "font",
                   "fonts",
@@ -283,7 +283,7 @@
                 "open_issues": 9,
                 "owner": "christiannaths",
                 "repo": "redacted-font",
-                "stars": 5396,
+                "stars": 5397,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -304,7 +304,7 @@
                 "open_issues": 9,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2744,
+                "stars": 2742,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -346,7 +346,7 @@
                 "open_issues": 26,
                 "owner": "weiweihuanghuang",
                 "repo": "Work-Sans",
-                "stars": 1709,
+                "stars": 1710,
                 "topics": [
                   "font",
                   "fonts",
@@ -376,7 +376,7 @@
                 "open_issues": 51,
                 "owner": "jpt",
                 "repo": "barlow",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -535,7 +535,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17803,
+            "stars": 17801,
             "topics": [
               "emoji",
               "twemoji"
@@ -576,11 +576,11 @@
             "id": 2981455,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-05T05:32:57Z",
+            "last_commit": "2026-10-19T05:33:04Z",
             "open_issues": 45,
             "owner": "github",
             "repo": "gemoji",
-            "stars": 4535,
+            "stars": 4534,
             "topics": [
               "emoji",
               "ruby",
@@ -721,7 +721,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-08T21:38:30Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "muan",
             "repo": "emojilib",
             "stars": 1775,
@@ -748,7 +748,7 @@
             "open_issues": 7,
             "owner": "notwaldorf",
             "repo": "emoji-translate",
-            "stars": 1665,
+            "stars": 1664,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -864,7 +864,7 @@
             "open_issues": 9,
             "owner": "mroth",
             "repo": "emojitracker",
-            "stars": 740,
+            "stars": 739,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -1197,7 +1197,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54127,
+            "stars": 54130,
             "topics": [
               "android",
               "icons",
@@ -1222,7 +1222,7 @@
             "id": 13099301,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-16T00:39:58Z",
+            "last_commit": "2026-10-19T02:02:46Z",
             "open_issues": 31,
             "owner": "lipis",
             "repo": "flag-icons",
@@ -1253,7 +1253,7 @@
             "open_issues": 135,
             "owner": "FontCustom",
             "repo": "fontcustom",
-            "stars": 3295,
+            "stars": 3294,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -1563,7 +1563,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64918,
+            "stars": 64927,
             "topics": [
               "font",
               "font-awesome",
@@ -1598,7 +1598,7 @@
             "open_issues": 155,
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17371,
+            "stars": 17372,
             "topics": [
               "developer",
               "developer-tools",
@@ -1627,7 +1627,7 @@
             "open_issues": 72,
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7462,
+            "stars": 7466,
             "topics": [
               "font",
               "monospace-font"
@@ -1651,7 +1651,7 @@
             "open_issues": 25,
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6527,
+            "stars": 6532,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1686,7 +1686,7 @@
             "open_issues": 40,
             "owner": "arrowtype",
             "repo": "recursive",
-            "stars": 3909,
+            "stars": 3913,
             "topics": [
               "font",
               "fontmake",
@@ -1735,7 +1735,7 @@
             "open_issues": 19,
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "font",
               "fonts",
@@ -1762,7 +1762,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1077,
+            "stars": 1078,
             "topics": [
               "font",
               "monospace",
@@ -1861,7 +1861,7 @@
                 "open_issues": 74,
                 "owner": "adobe-fonts",
                 "repo": "source-han-serif",
-                "stars": 9774,
+                "stars": 9777,
                 "topics": [
                   "cff",
                   "cff2",
@@ -1892,7 +1892,7 @@
                 "open_issues": 41,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3768,
+                "stars": 3770,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1920,7 +1920,7 @@
                 "open_issues": 45,
                 "owner": "adobe-fonts",
                 "repo": "source-serif",
-                "stars": 2401,
+                "stars": 2402,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1952,7 +1952,7 @@
                 "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82106,
+                "stars": 82108,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1977,7 +1977,7 @@
                 "open_issues": 163,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27931,
+                "stars": 27932,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -1994,11 +1994,11 @@
                 "id": 39315600,
                 "language": "JavaScript",
                 "license": "OFL-1.1",
-                "last_commit": "2026-10-17T20:27:11Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-19T06:45:42Z",
+                "open_issues": 98,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 23096,
+                "stars": 23109,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2049,7 +2049,7 @@
                 "open_issues": 46,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5706,
+                "stars": 5707,
                 "topics": [
                   "afdko",
                   "font",
@@ -2072,11 +2072,11 @@
                 "id": 930187154,
                 "language": "Python",
                 "license": "OFL-1.1",
-                "last_commit": "2026-10-18T16:49:10Z",
+                "last_commit": "2026-10-19T14:02:46Z",
                 "open_issues": 6,
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
-                "stars": 2320,
+                "stars": 2322,
                 "topics": [
                   "font",
                   "fusion",
@@ -2150,6 +2150,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Fontsource",
+          "description": "Self-host Open Source fonts in neatly bundled NPM packages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
+            "homepage": "https://fontsource.org",
+            "id": 264742473,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-14T11:22:25Z",
+            "open_issues": 42,
+            "owner": "fontsource",
+            "repo": "fontsource",
+            "stars": 6222,
+            "topics": [
+              "css",
+              "font",
+              "font-family",
+              "font-files",
+              "font-loading",
+              "fonts",
+              "fontsource",
+              "google",
+              "google-fonts",
+              "open-source",
+              "sass",
+              "typefaces"
+            ]
+          },
+          "first_seen": "2026-08-28T23:13:33.013Z"
+        },
+        {
+          "node_type": "item",
           "title": "fontmin",
           "description": "Font minifier",
           "children": [],
@@ -2164,46 +2198,12 @@
             "open_issues": 65,
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6219,
+            "stars": 6220,
             "topics": [
               "font",
               "fontmin",
               "icon-font",
               "subset"
-            ]
-          },
-          "first_seen": "2026-08-28T23:13:33.013Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fontsource",
-          "description": "Self-host Open Source fonts in neatly bundled NPM packages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
-            "homepage": "https://fontsource.org",
-            "id": 264742473,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-14T11:22:25Z",
-            "open_issues": 40,
-            "owner": "fontsource",
-            "repo": "fontsource",
-            "stars": 6219,
-            "topics": [
-              "css",
-              "font",
-              "font-family",
-              "font-files",
-              "font-loading",
-              "fonts",
-              "fontsource",
-              "google",
-              "google-fonts",
-              "open-source",
-              "sass",
-              "typefaces"
             ]
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2245,7 +2245,7 @@
             "open_issues": 210,
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5032,
+            "stars": 5034,
             "topics": [
               "font",
               "glyphs",
@@ -2293,8 +2293,8 @@
             "id": 27195805,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-18T16:41:14Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-18T18:22:19Z",
+            "open_issues": 152,
             "owner": "foliojs",
             "repo": "fontkit",
             "stars": 1677,
@@ -2395,7 +2395,7 @@
                 "open_issues": 109,
                 "owner": "typekit",
                 "repo": "webfontloader",
-                "stars": 9246,
+                "stars": 9245,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2453,7 +2453,7 @@
             "open_issues": 7,
             "owner": "vkarampinis",
             "repo": "awesome-icons",
-            "stars": 1577,
+            "stars": 1578,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2483,7 +2483,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T12:52:43Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Jolg42",
             "repo": "awesome-typography",
             "stars": 1545,
@@ -2549,11 +2549,11 @@
             "id": 5390156,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T20:50:40Z",
+            "last_commit": "2026-10-18T19:49:05Z",
             "open_issues": 1037,
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 8033,
+            "stars": 8034,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2640,7 +2640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:57:41.456Z",
+    "last_updated": "2026-10-19T19:30:19.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of fonts and everything",
@@ -2649,7 +2649,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-18T04:20:57Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "brabadu",
       "repo": "awesome-fonts",
       "stars": 2085,
