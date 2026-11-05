@@ -26,14 +26,14 @@ A curated list of fonts and typography resources.
 
 #### Collections
 
-* [Plex](https://github.com/IBM/plex) ⭐ 11,746 | 🐛 85 | 🌐 CSS | 📅 2026-11-04 - IBM's open source font
+* [Plex](https://github.com/IBM/plex) ⭐ 11,747 | 🐛 85 | 🌐 CSS | 📅 2026-11-04 - IBM's open source font
 * [Zilla Slab](https://github.com/mozilla/zilla-slab) ⭐ 461 | 🐛 31 | 🌐 Shell | 📅 2023-06-06 - Mozilla font
 * [Apple Fonts](https://developer.apple.com/fonts/) - Fonts for Apple platforms
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
-  * [Files of Google Fonts](https://github.com/google/fonts) ⭐ 20,719 | 🐛 1,479 | 🌐 HTML | 📅 2026-11-04 ([sources](https://github.com/googlefonts))
+  * [Files of Google Fonts](https://github.com/google/fonts) ⭐ 20,726 | 🐛 1,481 | 🌐 HTML | 📅 2026-11-05 ([sources](https://github.com/googlefonts))
   * [Roboto](https://github.com/google/roboto) ⚠️ Archived - Default font on Android & ChromeOS, and the recommended typeface for Material Design
   * [Noto Fonts](https://github.com/googlei18n/noto-fonts) ⚠️ Archived - Internationalized font for all languages, with rich support for CJK and emoji
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load) ⭐ 1,489 | 🐛 5 | 🌐 Shell | 📅 2022-01-10
@@ -50,15 +50,15 @@ A curated list of fonts and typography resources.
 
 #### Fonts
 
-* [Inter](https://github.com/rsms/inter) ⭐ 20,039 | 🐛 148 | 🌐 Python | 📅 2024-11-19 - A typeface specially designed for user interfaces
-* [Monaspace](https://github.com/githubnext/monaspace) ⭐ 19,786 | 🐛 68 | 🌐 Shell | 📅 2026-03-27 - An innovative superfamily of fonts for code
+* [Inter](https://github.com/rsms/inter) ⭐ 20,043 | 🐛 149 | 🌐 Python | 📅 2024-11-19 - A typeface specially designed for user interfaces
+* [Monaspace](https://github.com/githubnext/monaspace) ⭐ 19,795 | 🐛 68 | 🌐 Shell | 📅 2026-03-27 - An innovative superfamily of fonts for code
 * [Redacted](https://github.com/christiannaths/Redacted-Font) ⭐ 5,406 | 🐛 9 | 📅 2021-11-04 - Keep your wireframes free of distracting Lorem Ipsum
 * [Martian Mono](https://github.com/evilmartians/mono) ⭐ 2,744 | 🐛 9 | 📅 2026-07-23 - Free and open-source monospaced font from Evil Martians
-* [AtF Spark](https://github.com/aftertheflood/sparks) ⭐ 2,398 | 🐛 11 | 🌐 CSS | 📅 2023-09-21 - Font designed to create sparklines
-* [WorkSans](https://github.com/weiweihuanghuang/Work-Sans) ⭐ 1,712 | 🐛 26 | 🌐 HTML | 📅 2024-04-10
+* [AtF Spark](https://github.com/aftertheflood/sparks) ⭐ 2,399 | 🐛 11 | 🌐 CSS | 📅 2023-09-21 - Font designed to create sparklines
+* [WorkSans](https://github.com/weiweihuanghuang/Work-Sans) ⭐ 1,706 | 🐛 26 | 🌐 HTML | 📅 2024-04-10
 * [Barlow](https://github.com/jpt/barlow) ⭐ 834 | 🐛 52 | 🌐 Python | 📅 2024-08-10 - A grotesk variable font superfamily
 * [Urbanist](https://github.com/coreyhu/Urbanist) ⭐ 571 | 🐛 16 | 🌐 Python | 📅 2025-12-02 - Geometric sans-serif variable font
-* [Libre Franklin](https://github.com/impallari/Libre-Franklin) ⭐ 427 | 🐛 10 | 🌐 Shell | 📅 2025-09-02 - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
+* [Libre Franklin](https://github.com/impallari/Libre-Franklin) ⭐ 428 | 🐛 10 | 🌐 Shell | 📅 2025-09-02 - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Open Baskerville](https://github.com/klepas/open-baskerville) ⭐ 392 | 🐛 11 | 🌐 Ruby | 📅 2022-08-12
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) ⭐ 372 | 🐛 34 | 🌐 Python | 📅 2026-07-28 - A parametric variable font
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) ⭐ 324 | 🐛 18 | 🌐 Shell | 📅 2026-11-04
@@ -100,11 +100,11 @@ A curated list of fonts and typography resources.
 
 ## Iconic fonts
 
-* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,230 | 🐛 429 | 📅 2026-10-23 - Official icon set from Google
-* [Country Icons](https://github.com/lipis/flag-icon-css) ⭐ 12,501 | 🐛 34 | 🌐 HTML | 📅 2026-11-03 - A collection of all country flags in SVG and CSS
+* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,236 | 🐛 430 | 📅 2026-10-23 - Official icon set from Google
+* [Country Icons](https://github.com/lipis/flag-icon-css) ⭐ 12,504 | 🐛 34 | 🌐 HTML | 📅 2026-11-03 - A collection of all country flags in SVG and CSS
 * [Font Custom](https://github.com/FontCustom/fontcustom) ⭐ 3,294 | 🐛 132 | 🌐 Ruby | 📅 2026-01-09 - Icon font generator
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) ⭐ 2,794 | 🐛 55 | 🌐 Objective-C | 📅 2021-01-27 - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
-* [Iconic](https://github.com/somerandomdude/Iconic) ⭐ 2,345 | 🐛 7 | 🌐 Python | 📅 2020-04-08 - Icon set in raster, vector and font formats
+* [Iconic](https://github.com/somerandomdude/Iconic) ⭐ 2,344 | 🐛 7 | 🌐 Python | 📅 2020-04-08 - Icon set in raster, vector and font formats
 * [Map Icons](https://github.com/scottdejonge/map-icons) ⭐ 1,041 | 🐛 23 | 🌐 HTML | 📅 2024-02-23 - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
 * [stackicons](https://github.com/parkerbennett/stackicons) ⭐ 946 | 🐛 14 | 🌐 CSS | 📅 2018-04-23 - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [font-mfizz](https://github.com/fizzed/font-mfizz) ⭐ 538 | 🐛 54 | 🌐 Groovy | 📅 2021-05-11 - Vector Icons for Technology and Software Geeks
@@ -136,18 +136,18 @@ A curated list of fonts and typography resources.
 
 ## Programming fonts
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,131 | 🐛 32 | 🌐 CSS | 📅 2026-10-17 - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
-* [Hack](https://github.com/source-foundry/Hack) ⭐ 17,384 | 🐛 155 | 🌐 Shell | 📅 2022-11-21
-* [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) ⭐ 7,472 | 🐛 72 | 🌐 Python | 📅 2026-03-15
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 65,133 | 🐛 32 | 🌐 CSS | 📅 2026-10-17 - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Hack](https://github.com/source-foundry/Hack) ⭐ 17,383 | 🐛 155 | 🌐 Shell | 📅 2022-11-21
+* [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) ⭐ 7,474 | 🐛 72 | 🌐 Python | 📅 2026-03-15
 * [Codeface](https://github.com/chrissimpkins/codeface) ⭐ 6,541 | 🐛 25 | 🌐 Python | 📅 2020-09-19 - Gallery of monospaced fonts for developers
 * [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) ⭐ 3,918 | 🐛 40 | 🌐 Python | 📅 2025-10-02 - A variable font family for code & UI
-* [Meslo-Font](https://github.com/andreberg/Meslo-Font) ⭐ 2,742 | 🐛 25 | 📅 2019-01-22 - Customized version of Apple's Menlo font
+* [Meslo-Font](https://github.com/andreberg/Meslo-Font) ⭐ 2,743 | 🐛 25 | 📅 2019-01-22 - Customized version of Apple's Menlo font
 * [Miracode](https://github.com/IdreesInc/Miracode) ⭐ 1,405 | 🐛 23 | 🌐 Python | 📅 2025-08-05
-* [agave](https://github.com/blobject/agave) ⭐ 1,087 | 🐛 19 | 🌐 Tcl | 📅 2026-09-15 - Fixed-width outline typeface, designed and produced by type agaric
+* [agave](https://github.com/blobject/agave) ⭐ 1,088 | 🐛 19 | 🌐 Tcl | 📅 2026-09-15 - Fixed-width outline typeface, designed and produced by type agaric
 * [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) ⭐ 155 | 🐛 3 | 🌐 CSS | 📅 2020-11-29 - Geometric monospaced typeface
 * [Iconic Fonts](https://github.com/iconicFonts/if) ⚠️ Archived - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 * [Adobe Fonts](https://github.com/adobe-fonts)
-  * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,821 | 🐛 74 | 🌐 Shell | 📅 2024-07-30
+  * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,824 | 🐛 74 | 🌐 Shell | 📅 2024-07-30
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) ⭐ 3,781 | 🐛 41 | 🌐 CSS | 📅 2025-10-28
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) ⭐ 2,411 | 🐛 44 | 🌐 CSS | 📅 2026-10-06
   * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
@@ -165,24 +165,24 @@ A curated list of fonts and typography resources.
 
 * [FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,164 | 🐛 429 | 🌐 Clojure | 📅 2026-07-28 - Monospaced font with programming ligatures
 * [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,955 | 🐛 164 | 🌐 Python | 📅 2025-03-06 - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
-* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 23,206 | 🐛 95 | 🌐 JavaScript | 📅 2026-11-04 - Spatially efficient monospace font family for programming. Built from code.
+* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 23,207 | 🐛 95 | 🌐 JavaScript | 📅 2026-11-04 - Spatially efficient monospace font family for programming. Built from code.
 * [Monoid](https://github.com/larsenwork/monoid) ⭐ 7,950 | 🐛 77 | 🌐 Python | 📅 2020-10-26
-* [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,711 | 🐛 46 | 🌐 Python | 📅 2022-02-19
-* [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) ⭐ 2,342 | 🐛 6 | 🌐 Python | 📅 2026-11-04 - The free and open-source font fused with JetBrains Mono & Maple Mono
-* [Lilex](https://github.com/mishamyrt/Lilex) ⭐ 1,794 | 🐛 8 | 🌐 Astro | 📅 2026-10-12 - Modern programming font containing a set of ligatures for common programming multi-character combinations
-* [Fixedsys Excelsior](https://github.com/kika/fixedsys) ⭐ 1,332 | 🐛 7 | 🌐 Rust | 📅 2026-04-23
+* [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,712 | 🐛 46 | 🌐 Python | 📅 2022-02-19
+* [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) ⭐ 2,343 | 🐛 6 | 🌐 Python | 📅 2026-11-05 - The free and open-source font fused with JetBrains Mono & Maple Mono
+* [Lilex](https://github.com/mishamyrt/Lilex) ⭐ 1,796 | 🐛 8 | 🌐 Astro | 📅 2026-10-12 - Modern programming font containing a set of ligatures for common programming multi-character combinations
+* [Fixedsys Excelsior](https://github.com/kika/fixedsys) ⭐ 1,335 | 🐛 7 | 🌐 Rust | 📅 2026-04-23
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 * [Victor Mono](https://rubjo.github.io/victor-mono/) - A free programming font with semi-connected cursive italics, symbol ligatures and Latin, Cyrillic and Greek characters
 
 ## JavaScript libs
 
-* [Fontsource](https://github.com/fontsource/fontsource) ⭐ 6,262 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-03 - Self-host Open Source fonts in neatly bundled NPM packages
+* [Fontsource](https://github.com/fontsource/fontsource) ⭐ 6,263 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-03 - Self-host Open Source fonts in neatly bundled NPM packages
 * [fontmin](https://github.com/ecomfe/fontmin) ⭐ 6,221 | 🐛 65 | 🌐 JavaScript | 📅 2025-08-13 - Font minifier
 * [Lettering.js](https://github.com/davatron5000/Lettering.js) ⭐ 5,328 | 🐛 19 | 🌐 JavaScript | 📅 2020-07-27
-* [opentype.js](https://github.com/nodebox/opentype.js) ⭐ 5,043 | 🐛 213 | 🌐 JavaScript | 📅 2026-08-08 - Parser and writer for TrueType and OpenType fonts
+* [opentype.js](https://github.com/nodebox/opentype.js) ⭐ 5,045 | 🐛 213 | 🌐 JavaScript | 📅 2026-08-08 - Parser and writer for TrueType and OpenType fonts
 * [Typeset.js](https://github.com/davidmerfield/typeset) ⭐ 2,679 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-22 - HTML pre-processor for web typography
-* [fontkit](https://github.com/devongovett/fontkit) ⭐ 1,680 | 🐛 135 | 🌐 JavaScript | 📅 2026-11-02 - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
+* [fontkit](https://github.com/devongovett/fontkit) ⭐ 1,679 | 🐛 135 | 🌐 JavaScript | 📅 2026-11-02 - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [Typr.js](https://github.com/photopea/Typr.js) ⭐ 1,005 | 🐛 10 | 🌐 JavaScript | 📅 2025-08-28 - Parser and utility for working with fonts (TTF, OTF)
 * [localFont](https://github.com/jaicab/localFont) ⭐ 844 | 🐛 6 | 🌐 CSS | 📅 2016-02-19 - Save fonts in localStorage
 * [Beatrix](https://github.com/funbox/beatrix) ⭐ 49 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-19 - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
@@ -196,7 +196,7 @@ A curated list of fonts and typography resources.
 ## Awesome lists
 
 * [Awesome Icons](https://github.com/vkarampinis/awesome-icons) ⭐ 1,582 | 🐛 4 | 📅 2026-11-01
-* [Awesome Typography](https://github.com/Jolg42/awesome-typography) ⭐ 1,553 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-20
+* [Awesome Typography](https://github.com/Jolg42/awesome-typography) ⭐ 1,551 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-20
 
 ## GitHub Showcases
 
@@ -206,8 +206,8 @@ A curated list of fonts and typography resources.
 
 ## Other
 
-* [Powerline Fonts](https://github.com/powerline/fonts) ⭐ 26,316 | 🐛 183 | 🌐 Shell | 📅 2024-03-22 - Patched fonts for Powerline users
-* [FontForge](https://github.com/fontforge/fontforge) ⭐ 8,058 | 🐛 1,015 | 🌐 C | 📅 2026-11-04 - Cross-platform font editor
+* [Powerline Fonts](https://github.com/powerline/fonts) ⭐ 26,320 | 🐛 183 | 🌐 Shell | 📅 2024-03-22 - Patched fonts for Powerline users
+* [FontForge](https://github.com/fontforge/fontforge) ⭐ 8,061 | 🐛 1,016 | 🌐 C | 📅 2026-11-04 - Cross-platform font editor
 * [fnt](https://github.com/alexmyczko/fnt) ⭐ 650 | 🐛 8 | 🌐 Shell | 📅 2026-10-30 - Apt for fonts, the missing font manager for macOS/linux
 * [TruFont](https://github.com/trufont/trufont) ⭐ 505 | 🐛 95 | 🌐 Python | 📅 2025-12-02 - a streamlined and hackable font editor
 * [Command line font-manager](https://github.com/alyssais/font) ⚠️ Archived
@@ -223,4 +223,4 @@ Feel free to make a pull request. Please read the [contribution guidelines](CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
