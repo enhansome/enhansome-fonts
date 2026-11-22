@@ -79,10 +79,10 @@
                 "language": "CSS",
                 "license": "OFL-1.1",
                 "last_commit": "2026-11-19T19:24:32Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11786,
+                "stars": 11789,
                 "topics": [
                   "design",
                   "font",
@@ -134,11 +134,11 @@
                     "id": 30675533,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-11-21T00:40:12Z",
-                    "open_issues": 1518,
+                    "last_commit": "2026-11-22T00:45:37Z",
+                    "open_issues": 1525,
                     "owner": "google",
                     "repo": "fonts",
-                    "stars": 20791,
+                    "stars": 20796,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:33.013Z"
@@ -266,7 +266,7 @@
                 "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 20104,
+                "stars": 20110,
                 "topics": [
                   "design",
                   "font",
@@ -339,7 +339,7 @@
                 "open_issues": 9,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2755,
+                "stars": 2757,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:33.013Z"
@@ -567,6 +567,38 @@
                 "topics": []
               },
               "first_seen": "2026-10-15T17:54:40.115Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vazirmatn Soft",
+              "description": "A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Vazirmatn Soft · وزیرمتن نرم — a soft, rounded version of Saber Rastikerdar's Vazirmatn Persian/Arabic typeface. 9 weights + variable, OFL.",
+                "homepage": "https://truthofmatthew.com/projects/vazirmatn-soft/",
+                "id": 1465463664,
+                "language": "CSS",
+                "license": "OFL-1.1",
+                "last_commit": "2026-11-22T11:47:37Z",
+                "open_issues": 0,
+                "owner": "truthofmatthew",
+                "repo": "vazirmatn-soft",
+                "stars": 2,
+                "topics": [
+                  "arabic",
+                  "farsi",
+                  "font",
+                  "persian",
+                  "persian-font",
+                  "rounded-font",
+                  "typeface",
+                  "variable-font",
+                  "vazirmatn",
+                  "webfont"
+                ]
+              },
+              "first_seen": "2026-11-22T20:29:18.244Z"
             }
           ],
           "description": null,
@@ -595,7 +627,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17823,
+            "stars": 17821,
             "topics": [
               "emoji",
               "twemoji"
@@ -1257,7 +1289,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54352,
+            "stars": 54356,
             "topics": [
               "android",
               "icons",
@@ -1286,7 +1318,7 @@
             "open_issues": 37,
             "owner": "lipis",
             "repo": "flag-icons",
-            "stars": 12539,
+            "stars": 12541,
             "topics": [
               "country",
               "country-flags",
@@ -1623,7 +1655,7 @@
             "open_issues": 35,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65270,
+            "stars": 65277,
             "topics": [
               "font",
               "font-awesome",
@@ -1658,7 +1690,7 @@
             "open_issues": 155,
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17398,
+            "stars": 17400,
             "topics": [
               "developer",
               "developer-tools",
@@ -1711,7 +1743,7 @@
             "open_issues": 25,
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6550,
+            "stars": 6553,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1746,7 +1778,7 @@
             "open_issues": 40,
             "owner": "arrowtype",
             "repo": "recursive",
-            "stars": 3925,
+            "stars": 3926,
             "topics": [
               "font",
               "fontmake",
@@ -1822,7 +1854,7 @@
             "open_issues": 19,
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "font",
               "monospace",
@@ -1921,7 +1953,7 @@
                 "open_issues": 74,
                 "owner": "adobe-fonts",
                 "repo": "source-han-serif",
-                "stars": 9852,
+                "stars": 9856,
                 "topics": [
                   "cff",
                   "cff2",
@@ -2012,7 +2044,7 @@
                 "open_issues": 430,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82218,
+                "stars": 82224,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2058,7 +2090,7 @@
                 "open_issues": 95,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 23311,
+                "stars": 23314,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2109,7 +2141,7 @@
                 "open_issues": 46,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5711,
+                "stars": 5710,
                 "topics": [
                   "afdko",
                   "font",
@@ -2132,11 +2164,11 @@
                 "id": 930187154,
                 "language": "Python",
                 "license": "OFL-1.1",
-                "last_commit": "2026-11-21T19:22:00Z",
+                "last_commit": "2026-11-22T19:40:52Z",
                 "open_issues": 7,
                 "owner": "SpaceTimee",
                 "repo": "Fusion-JetBrainsMapleMono",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": [
                   "font",
                   "fusion",
@@ -2166,7 +2198,7 @@
                 "open_issues": 8,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2221,7 +2253,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T02:00:40Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "fontsource",
             "repo": "fontsource",
             "stars": 6298,
@@ -2302,7 +2334,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-08T03:59:23Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "opentypejs",
             "repo": "opentype.js",
             "stars": 5051,
@@ -2353,11 +2385,11 @@
             "id": 27195805,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T18:48:18Z",
-            "open_issues": 127,
+            "last_commit": "2026-11-21T23:30:24Z",
+            "open_issues": 123,
             "owner": "foliojs",
             "repo": "fontkit",
-            "stars": 1690,
+            "stars": 1691,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2403,6 +2435,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Font.js",
+          "description": "Pomax/lib-font",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images",
+            "homepage": null,
+            "id": 3236537,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-04T15:28:00Z",
+            "open_issues": 24,
+            "owner": "Pomax",
+            "repo": "lib-font",
+            "stars": 757,
+            "topics": []
+          },
+          "first_seen": "2026-11-22T20:29:18.244Z"
         },
         {
           "node_type": "item",
@@ -2592,7 +2645,7 @@
             "open_issues": 183,
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26320,
+            "stars": 26321,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:33.013Z"
@@ -2609,8 +2662,8 @@
             "id": 5390156,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T18:13:13Z",
-            "open_issues": 1016,
+            "last_commit": "2026-11-22T17:25:27Z",
+            "open_issues": 1015,
             "owner": "fontforge",
             "repo": "fontforge",
             "stars": 8097,
@@ -2700,7 +2753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:16:06.283Z",
+    "last_updated": "2026-11-22T20:29:18.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of fonts and everything",
@@ -2708,8 +2761,8 @@
       "id": 29055846,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-20T22:29:04Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-21T21:33:32Z",
+      "open_issues": 2,
       "owner": "brabadu",
       "repo": "awesome-fonts",
       "stars": 2115,
@@ -2724,7 +2777,7 @@
         "programming-fonts"
       ]
     },
-    "original_repository_sha": "9751d704b47a941ce71a3a7c26842ad539ef1b08",
+    "original_repository_sha": "d5a04e54970178fe29f78983783b7fcb0fb7d188",
     "enhanced_repository": "enhansome/enhansome-fonts",
     "enhanced_repository_description": null,
     "title": "Awesome fonts with stars"
